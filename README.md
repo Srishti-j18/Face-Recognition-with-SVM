@@ -1,6 +1,6 @@
 # Face Recognition with HOG + SVM
 
-This repository implements a **face recognition system** using **HOG (Histogram of Oriented Gradients)** for feature extraction, **PCA** for dimensionality reduction, and **SVM** for classification, inspired by Skillcate AI tutorials.
+This repository implements a **face recognition system** using **HOG (Histogram of Oriented Gradients)** for feature extraction, **PCA (Principal Component Analysis)** for dimensionality reduction, and **SVM (Support Vector Machine)** for classification, inspired by Skillcate AI tutorials.
 
 ## ✨ Features
 - **HOG feature extraction** for robust face descriptors
