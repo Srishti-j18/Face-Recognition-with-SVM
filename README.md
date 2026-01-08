@@ -6,7 +6,7 @@ This repository implements a **face recognition system** using **HOG (Histogram 
 - **HOG feature extraction** for robust face descriptors
 - **SVM classifier** for face/non-face binary classification or multi-class recognition  
 - **Real-time detection** via webcam or image processing
-- Trained on Indian celebrity faces (Amir Khan, Jaya Bachchan, etc.)
+- Trained on Indian celebrity faces (Aamir Khan, Jaya Bachchan, etc.)
 
 ## 📦 Requirements
 ```bash
