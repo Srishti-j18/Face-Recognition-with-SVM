@@ -10,7 +10,7 @@ This repository implements a **face recognition system** using **HOG (Histogram 
 
 ## 📦 Requirements
 ```bash
-pip install opencv-python scikit-learn numpy matplotlib imutils
+pip install opencv-python numpy matplotlib imutils
 ```
 
 ## 🚀 Quick Start
